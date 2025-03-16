@@ -1,3 +1,4 @@
-train.parquet --> This file contains the columns named text and label. Each text is labeled. 
+**train.parquet --> This file contains the columns named text and label. Each text is labeled. 
 test_without_label.parquet --> This file contains the columns named text and label but the label column is empty. 
+test_with_predicted_label --> This file contains the columns named text and the predicted label based on the customized neural network model.** 
 
